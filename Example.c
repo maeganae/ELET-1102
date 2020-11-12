@@ -12,7 +12,7 @@ int main()
     printf("Thank you. Please type the title you would like to be addressed by. ");
     scanf("%s", Title);
 
-    printf("Hello, %s. %s %s \n", Title, Firstname, Lastname);
+    printf("Greetings, %s. %s %s \n", Title, Firstname, Lastname);
 
     return 0;
 }
